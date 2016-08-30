@@ -5,4 +5,5 @@ go get github.com/reillywatson/gelftoplaintext
 
 Usage:
 `gelftoplaintext file.gelf`
+
 Or `cat file.gelf | gelftoplaintext`
