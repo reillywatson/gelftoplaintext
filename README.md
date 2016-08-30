@@ -4,5 +4,5 @@ Installation:
 go get github.com/reillywatson/gelftoplaintext
 
 Usage:
-gelftoplaintext file.gelf
-cat file.gelf | gelftoplaintext
+`gelftoplaintext file.gelf`
+Or `cat file.gelf | gelftoplaintext`
